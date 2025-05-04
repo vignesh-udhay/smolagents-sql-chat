@@ -67,10 +67,3 @@ The application uses a simple receipts table with the following structure:
 | price         | Float   | Receipt amount  |
 | tip           | Float   | Tip amount      |
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
