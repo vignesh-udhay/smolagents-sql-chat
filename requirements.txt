@@ -1,0 +1,7 @@
+smolagents
+sqlalchemy
+gradio
+requests
+python-dotenv
+groq
+litellm
